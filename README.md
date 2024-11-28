@@ -1,4 +1,4 @@
-# Django User Registration and Authentication System
+# Django User Registration and Authentication System ( Role-Based Access Control (RBAC) UI)
 
 ## Table of Contents
 
